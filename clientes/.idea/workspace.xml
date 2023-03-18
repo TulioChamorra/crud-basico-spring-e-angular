@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4d5cff7-023f-43c3-8741-741a22be6292" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FSl4AugAf9eBpn365r7opLpNrY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.tuliochamorra.ClientesApplication" />
+      <module name="clientes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.tuliochamorra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4d5cff7-023f-43c3-8741-741a22be6292" name="Default Changelist" comment="" />
+      <created>1664493172673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664493172673</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1664498788353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="168" key="#com.intellij.ide.util.MemberChooser/1920.487.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664498788353" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1672525603717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="218" key="FileChooserDialogImpl/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1672525603717" />
+    <state width="1865" height="496" key="GridCell.Tab.0.bottom" timestamp="1670683266787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="496" key="GridCell.Tab.0.bottom/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670683266787" />
+    <state width="1865" height="292" key="GridCell.Tab.0.bottom/1920.487.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664845522122" />
+    <state width="1865" height="496" key="GridCell.Tab.0.center" timestamp="1670683266787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="496" key="GridCell.Tab.0.center/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670683266787" />
+    <state width="1865" height="292" key="GridCell.Tab.0.center/1920.487.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664845522122" />
+    <state width="1865" height="496" key="GridCell.Tab.0.left" timestamp="1670683266787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="496" key="GridCell.Tab.0.left/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670683266787" />
+    <state width="1865" height="292" key="GridCell.Tab.0.left/1920.487.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664845522122" />
+    <state width="1865" height="496" key="GridCell.Tab.0.right" timestamp="1670683266787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="496" key="GridCell.Tab.0.right/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670683266787" />
+    <state width="1865" height="292" key="GridCell.Tab.0.right/1920.487.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664845522122" />
+    <state width="1865" height="496" key="GridCell.Tab.1.bottom" timestamp="1670683266787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="496" key="GridCell.Tab.1.bottom/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670683266787" />
+    <state width="1865" height="496" key="GridCell.Tab.1.center" timestamp="1670683266787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="496" key="GridCell.Tab.1.center/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670683266787" />
+    <state width="1865" height="496" key="GridCell.Tab.1.left" timestamp="1670683266787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="496" key="GridCell.Tab.1.left/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670683266787" />
+    <state width="1865" height="496" key="GridCell.Tab.1.right" timestamp="1670683266787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="496" key="GridCell.Tab.1.right/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670683266787" />
+    <state x="352" y="77" key="SettingsEditor" timestamp="1664495329842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="77" key="SettingsEditor/1920.487.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664495329842" />
+    <state x="591" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1670682800067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="302" key="com.intellij.ide.util.TipDialog/-1366.431.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1670682800067" />
+    <state x="591" y="302" key="com.intellij.ide.util.TipDialog/1920.487.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1664717231147" />
+  </component>
+</project>
